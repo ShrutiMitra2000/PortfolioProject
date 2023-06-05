@@ -4,7 +4,7 @@
 <p><span style="color: #000000;"><em>This repository contains the Covid-19 dataset which is divided into two excel files (Coviddeath.xlsx and CovidVaccination.xlsx) and the Covid-data-exploration.sql. </em></span></p>
 </li>
 <li>
-<p><span style="color: #000000;"><em>The Covid-data-exploration.sql contains all the queries required to analyze the data at Global level, Continent level and country level (India).</em></span></p>
+<p><span style="color: #000000;"><em>The Covid-data-exploration.sql contains all the queries used to analyze the data at Global level, Continent level and country level (India).</em></span></p>
 </li>
 <li><span style="color: #000000;"><em>Several concepts of sql such as the built-infunction, joins, cte's, temperory table, views have been uesd to analyze the data as well as store the view for future use.</em></span></li>
 </ul>
