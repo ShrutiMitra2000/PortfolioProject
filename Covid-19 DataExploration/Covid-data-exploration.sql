@@ -12,7 +12,7 @@ order by 1,2;
 --Calculating the death percentage for the country we live for each day
 select location,date,total_cases, total_deaths,round((total_deaths/total_cases)*100,2) as DeathPercentage
 from  CovidDeaths
-where location like '%ndia%' and continent is not null
+where location like '%india%' and continent is not null
 order by DeathPercentage desc
 
 --Calculating the infected percentage for the country we live for each day
